@@ -1,6 +1,6 @@
 # Hello (⌐□_□)
 
-I'm Ian, a final year student based in the UK.
+I'm Ian
 
 I like to design and create platforms and tools that aim to help users and developers.
 
